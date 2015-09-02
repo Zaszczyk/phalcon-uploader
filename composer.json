@@ -1,5 +1,5 @@
 {
-    "name": "Zaszczyk/phalcon-uploader",
+    "name": "zaszczyk/phalcon-uploader",
     "description": "It is fork of stanislav-web/phalcon-uploader. Phalcon files uploader. Handling and downloading files for Phalcon projects. Allowed multiple files download, filters etc...",
     "type": "library",
     "keywords" : [
